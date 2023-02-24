@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "total": 0,
+            "stok": 0,
+            "status": false
+        },
+        {
+            "nama": "Tas Selempang Slingbag",
+            "desk": "Untuk Pembelian 10 Pcs Mendapatkan Gratis 1 Gantungan Kunci",
+            "stok": 7,
+            "harga": 10000,
+            "cart": 0,
+            "ct": 1,
+            "sum": 0,
+            "status": false
+        },
+        {
+            "nama": "Powerbank 20000 mAh",
+            "desk": "Kualitas Bagus, Layak untuk dipercaya!",
+            "stok": 5,
+            "harga": 95000,
+            "cart": 0,
+            "ct": 1,
+            "sum": 0,
+            "status": false
+        },
+        {
+            "nama": "TWS Headset Bluetooth 5.0",
+            "desk": "Generasi baru headset Bluetooth",
+            "stok": 8,
+            "harga": 70000,
+            "cart": 0,
+            "ct": 1,
+            "sum": 0,
+            "status": false
+        },
+        {
+            "nama": "Helm bogo dewasa Classic kaca cembung",
+            "desk": "Helm Bogo Classic Original",
+            "stok": 9,
+            "harga": 55000,
+            "cart": 0,
+            "ct": 1,
+            "sum": 0,
+            "status": false
+        },
+        {
+            "nama": "Batik Pria Lengan Panjang",
+            "desk": "Matt 100% full katun halus,tidak mudah kusut,jahitan rapi",
+            "stok": 4,
+            "harga": 30000,
+            "cart": 0,
+            "ct": 1,
+            "sum": 0,
+            "status": false
+        }
+    ]
+}
